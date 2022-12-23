@@ -27,7 +27,6 @@ body {
   padding-left: 156px;
   padding-right: 156px;
   margin: 0 auto;
-  outline: 1px solid red;
 }
 
 /* header */
@@ -284,6 +283,7 @@ footer .logo-studio {
 footer p {
   color: var(--footer-text);
   margin-top: 16px;
+  margin-left: 0%;
 }
 
 .footer {
